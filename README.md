@@ -77,6 +77,7 @@ docs/
   ECP2_PROTOCOL.md              Self-contained protocol reference
   DISCOVERY.md                  How discovery works, requirements, roadmap
   NETWORKING.md                 Discovery and the Android-emulator NAT limitation
+LICENSE                         CC BY-NC-SA 4.0
 ```
 
 ## How it works (short version)
@@ -110,4 +111,19 @@ Not yet implemented (library hooks exist):
 ## Legal
 
 Use this only on Roku devices you own or are authorized to control, on networks
-you are allowed to use.
+you are allowed to use. Roku is a trademark of Roku, Inc. This project is not
+affiliated with, endorsed by, or sponsored by Roku, Inc.
+
+## License
+
+Copyright (c) 2026 Teklead.
+
+This project is licensed under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): you may
+share and adapt it for non-commercial purposes, with attribution, and derivative
+works must be distributed under the same license. Commercial use requires prior
+written permission from the copyright holder. See [`LICENSE`](LICENSE).
+
+This is a source-available, non-commercial license, not an OSI-approved
+open-source license. The official F-Droid repository requires a FOSS license, so
+this project is not eligible for inclusion there.
